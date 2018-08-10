@@ -1,0 +1,2 @@
+
+This is a new junk text file.  Added as a magit test.
